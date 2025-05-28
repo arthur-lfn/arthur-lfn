@@ -1,4 +1,8 @@
-## Hi there 👋
+### iOS developer, former pharmacist
+
+**Likes**: clean code, tennis and companies that feel like a WoW guild\
+**Dislikes**: truffles, reggaeton and LinkedIn
+
 
 <!--
 **arthur-lfn/arthur-lfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
